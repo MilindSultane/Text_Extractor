@@ -1,0 +1,7 @@
+Step 1: Detect Candidate Text Regions Using MSER
+Step 2: Remove Non-Text Regions Based On Basic Geometric Properties
+Step 3: Remove Non-Text Regions Based On Stroke Width Variation
+Step 4: Merge Text Regions for Final Detection Result
+Step 5: Recognize Detected Text Using OCR
+Step 6:
+Step 7:
